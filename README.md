@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+<b>Deployed Link : </b> https://real-estate-1xt.pages.dev/
+
+# Screenshots
+![image](https://github.com/TeghSinghJ/real-estate/assets/81065036/f87abfed-29e4-4608-9904-44bcef5190a1)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
