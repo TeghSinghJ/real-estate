@@ -1,0 +1,19 @@
+.f-container{
+    justify-content: space-between;
+}
+.f-left{
+    gap: 1rem;
+}
+.f-menu{
+    margin-top: 1.5rem;
+    color: white;
+    gap: 1.5rem;
+}
+@media (max-width:758px) {
+    .f-container{
+        justify-content: center;
+    }
+    .f-container > div{
+        align-items: center !important;
+    }
+}
